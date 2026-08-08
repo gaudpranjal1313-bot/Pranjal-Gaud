@@ -39,6 +39,26 @@ Tools & Technologies
 - DAX
 - Microsoft Excel
 
+
+Dashboard Preview
+
+E-Commerce Sales Dashboard Overview
+
+![E-Commerce Sales Dashboard Overview](Ecommerce_Sales_Dashboard_Overview.png)
+
+Category-wise Sales Analysis
+
+![Category-wise Sales Analysis](Category_Wise_Sales_Analysis.png)
+
+Region-wise Sales Analysis
+
+![Region-wise Sales Analysis](Region_Wise_Sales_Analysis.png)
+
+Product Performance Analysis
+
+![Product Performance Analysis](Product_Performance_Analysis.png)
+  
+
 Dashboard Features
 
 - KPI Cards
